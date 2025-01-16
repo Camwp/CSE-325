@@ -1,0 +1,21 @@
+/* Apply padding to all input, select, and textarea elements */
+input,
+select,
+textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    /* Optional: Define a consistent border */
+    border-radius: 5px;
+    /* Optional: Add rounded corners */
+    font-size: 16px;
+    /* Optional: Set a font size */
+    box-sizing: border-box;
+    /* Ensure padding doesn't affect width */
+    width: 100%;
+    /* Optional: Make inputs take full width of the container */
+}
+
+/* Add spacing between form elements */
+form p {
+    margin-bottom: 15px;
+}
