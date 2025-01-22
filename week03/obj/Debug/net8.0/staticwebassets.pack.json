@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\week03.bundle.scp.css",
+      "PackagePath": "staticwebassets\\week03.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.week03.props",
+      "PackagePath": "build\\week03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.week03.props",
+      "PackagePath": "buildMultiTargeting\\week03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.week03.props",
+      "PackagePath": "buildTransitive\\week03.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.week03.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
