@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GDi50N29Hd3RVXvSfJmsbEPTnDd89jb0I9WY5UUf+sM=",
+  "Hash": "89zJfgIYeJHls3lGsh0AqvzAmoIa6NLDiWfgRMrHNCw=",
   "Source": "BlazingPizza",
   "BasePath": "_content/BlazingPizza",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazingPizza\\wwwroot",
       "Source": "BlazingPizza",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-300.woff",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-300.woff"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-300.woff2",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-300.woff2",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-300.woff2"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-500.woff",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-500.woff"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-500.woff2",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-500.woff2",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-500.woff2"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-700.woff",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-700.woff"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-700.woff2",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-700.woff2",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-700.woff2"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-regular.woff",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand-v8-latin-regular.woff2",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand-v8-latin-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\font\\quicksand.css",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\font\\quicksand.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/font/quicksand.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font\\quicksand.css"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\css\\site.css",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\favicon.ico",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\bike.svg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\bike.svg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/bike.svg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bike.svg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\icon-512.png",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\icon-512.png",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/icon-512.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon-512.png"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\logo.svg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\logo.svg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/logo.svg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.svg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizza-slice.svg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizza-slice.svg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizza-slice.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizza-slice.svg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\bacon.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\bacon.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/bacon.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\bacon.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\brit.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\brit.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/brit.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\brit.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\cheese.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\cheese.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/cheese.jpg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\cheese.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\margherita.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\margherita.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/margherita.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\margherita.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\meaty.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\meaty.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/meaty.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\meaty.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\mushroom.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\mushroom.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/mushroom.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\mushroom.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\pepperoni.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\pepperoni.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/pepperoni.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\pepperoni.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\pizzas\\salad.jpg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\pizzas\\salad.jpg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/pizzas/salad.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pizzas\\salad.jpg"
     },
     {
-      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\img\\user.svg",
+      "Identity": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\img\\user.svg",
       "SourceId": "BlazingPizza",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\wwwroot\\",
       "BasePath": "_content/BlazingPizza",
       "RelativePath": "img/user.svg",
       "AssetKind": "All",

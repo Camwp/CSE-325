@@ -1300,11 +1300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\BlazingPizza\\BlazingPizza.csproj",
+      "projectUniqueName": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\BlazingPizza.csproj",
       "projectName": "BlazingPizza",
-      "projectPath": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\BlazingPizza\\BlazingPizza.csproj",
+      "projectPath": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\BlazingPizza.csproj",
       "packagesPath": "C:\\Users\\cpedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\BlazingPizza\\obj\\",
+      "outputPath": "C:\\Users\\cpedro\\Documents\\CSE-325\\week03\\assignment\\blazingpizza1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cpedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
